@@ -1,4 +1,4 @@
-# 🎬 BookMyScreen Movie Booking System Tutorial (MERN Stack)
+ # 🎬 BookMyScreen Movie Booking System Tutorial (MERN Stack)
 
 Welcome to the **BookMyScreen** tutorial series – your ultimate guide to building a **full-stack movie ticket booking system** using **React**, **Node.js**, **MongoDB**, and **Express.js**.
 
