@@ -101,14 +101,7 @@ BookMyScreen/
 
 GitHub: https://github.com/NituKumari82
 
-LinkedIn: [Add LinkedIn URL]
 
----
 
-## ⭐ Support
+-
 
-If you found this project helpful:
-
-⭐ Star the repository  
-🍴 Fork the project  
-🛠️ Contribute improvements
